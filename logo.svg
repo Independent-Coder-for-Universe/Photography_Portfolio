@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Memories by Abhi logo</title>
+  <desc id="desc">A circular black badge with a stylized camera icon and the text Memories by Abhi.</desc>
+  <defs>
+    <style>
+      .bg{fill:#070709}.stroke{stroke:#f1f1f1;stroke-width:12;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .red{fill:#d5001c}.txt{fill:#f1f1f1;font-family:'Segoe UI',Arial,sans-serif;letter-spacing:.22em}
+    </style>
+  </defs>
+  <rect width="800" height="800" fill="#e7e7e7"/>
+  <circle cx="400" cy="400" r="360" class="bg"/>
+  <g transform="translate(150 170)">
+    <rect x="40" y="120" width="360" height="210" rx="24" class="stroke"/>
+    <rect x="88" y="86" width="96" height="28" rx="4" fill="#f1f1f1"/>
+    <rect x="76" y="154" width="120" height="176" class="red"/>
+    <circle cx="266" cy="225" r="82" class="stroke"/>
+    <circle cx="266" cy="225" r="54" class="stroke" style="stroke-width:8"/>
+    <line x1="410" y1="60" x2="168" y2="360" class="stroke" style="stroke-width:14"/>
+    <path d="M310 300c36 10 64 34 80 68" class="stroke" style="stroke-width:6"/>
+    <path d="M330 286c44 12 78 41 98 81" class="stroke" style="stroke-width:4"/>
+  </g>
+  <text x="400" y="620" text-anchor="middle" class="txt" font-size="62" font-weight="700">MEMORIES</text>
+  <text x="400" y="686" text-anchor="middle" class="txt" font-size="44" font-weight="500">BY ABHI</text>
+</svg>
